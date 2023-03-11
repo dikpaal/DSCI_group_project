@@ -1,1 +1,3 @@
-# DSCI_group_project
+# DSCI
+
+DIkpaal Patel, Alexandra Kelsick-Plumb, Ayaan Ahuja, Kiana Mercredi
