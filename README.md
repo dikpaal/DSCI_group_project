@@ -1,4 +1,4 @@
-#An Investigation into the Relationship between Cholesterol Levels, Age, and Resulting Heart Disease or Lack thereof
+# An Investigation into the Relationship between Cholesterol Levels, Age, and Resulting Heart Disease or Lack thereof
 
 Dataset: Heart Disease Dataset | Kaggle - https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?resource=download
 
